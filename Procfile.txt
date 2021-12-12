@@ -1,1 +1,0 @@
-web: ssh setup.sh && streamlit run Model_Deployment.py
