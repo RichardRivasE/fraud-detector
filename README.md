@@ -1,8 +1,10 @@
 # Machine Learning App: Detector de Fraudes
 
-Pueden encontrar esta aplicación puesta en producción en el siguiente enlace: https://nala-fraud-detector.herokuapp.com/
+Pueden encontrar esta aplicación puesta en producción en el siguiente enlace: https://fraud-detector-rr.herokuapp.com/
 
-En la carpeta de EDA pueden encontrar el Jupyter Notebook con el paso a paso del análisis exploratorio de datos y la construcción de los modelos.
+En la carpeta de EDA pueden encontrar el Jupyter Notebook con el paso a paso del análisis exploratorio de datos y la construcción del modelo.
+
+Nota: esta aplicación fue desarrollada con fines de demostrar una puesta en producción usando Python, Streamlit y Heroku. La efectividad del modelo es irrelevante para su objetivo.
 
 Los siguientes archivos son necesarios para que la aplicación se ejecute correctamente en la nube a través de la plataforma Heroku:
 * runtime.txt: con la versión de Python utilizada.
